@@ -28,6 +28,7 @@ function playRound(computerPlay, playerSelection) {
     case "scissorrock":
       result = "You win";
       break;
+    // draw
     case "rockrock":
     case "paperpaper":
     case "scissorscissor":
